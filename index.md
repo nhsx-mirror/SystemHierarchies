@@ -24,4 +24,3 @@ Template for end-to-end open source analytics: python, [plotly](https://plotly.c
 {% include plotly_obj.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
-
