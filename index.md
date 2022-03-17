@@ -15,20 +15,20 @@ Template for end-to-end open source analytics: python, [plotly](https://plotly.c
    </p>
 </div> -->
 
-<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
-
-{% include update.html %}
-
-## Plotly Chart
-
-{% include plotly_obj.html %}
-
-<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 ## Funnel Chart
 <br>
 
-<iframe src="/map outputs/funnel_chart.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="funnel_chart.html" height="600px" width="100%" style="border:none;"></iframe>
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
+<br>
+
+## Sunburst Chart - Small
+<br>
+
+<iframe src="sunburst_small.html" height="600px" width="100%" style="border:none;"></iframe>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
  
