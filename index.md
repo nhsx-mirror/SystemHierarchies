@@ -19,7 +19,7 @@ Template for end-to-end open source analytics: python, [plotly](https://plotly.c
 
 {% include update.html %}
 
-## Plotly Chart
+## Funnel Chart
 
 {% include funnel_chart.html %}
 
