@@ -25,9 +25,3 @@ Template for end-to-end open source analytics: python, [plotly](https://plotly.c
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-## Funnel Chart
-
-<iframe src="./map outpus/funnel_chart.html" height="600px" width="100%" style="border:none;"></iframe>
-
-<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
- 
