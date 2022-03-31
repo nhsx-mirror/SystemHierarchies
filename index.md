@@ -1,8 +1,6 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-# Open Statistics - Cyber Security
-
-
+# System Hierarchy Visualisation Showcase
 
 <div class="nhsuk-warning-callout">
   <h3 class="nhsuk-warning-callout__label">
@@ -23,7 +21,8 @@
    </p>
 </div>
 
-
+<br>
+The following page will showcase different visualisation methods for displaying system hierarchies, specifically for different levels of NHS organisations.
 
 <br>
 # Funnel Chart
