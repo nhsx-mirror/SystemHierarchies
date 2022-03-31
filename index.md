@@ -36,22 +36,34 @@ Funnel chart showing the number of organisations at each stage starting with Reg
 <br>
 Sunburst chart showing the mapping of each region through to GP practices. Clicking on each sector expands this selection.
 
-{% include sunburst_large.html %}
+<iframe src="sunburst_large.html" height="600px" width="100%" style="border:none;"></iframe>
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 
 #Suburst Chart - Regions -> ICSs -> CCGs
 Sunburst chart showing the mapping of each region through to CCGs. Clicking on each sector expands this selection.
 
-{% include sunburst_small.html %}
+<iframe src="sunburst_small.html" height="600px" width="100%" style="border:none;"></iframe>
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 
 # Tree Map - Regions -> ICS -> CCGs -> PCNs -> GP Practices
 Tree map containing the hierarchy mapping regions through to GP practices. Clicking on each of the rectangles expands this selection.
 
-{% include treemap_small.html %}
+<iframe src="treemap_small.html" height="600px" width="100%" style="border:none;"></iframe>
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 
 # Tree Map - Regions -> ICS -> CCGs
 Tree map contianing the hierarchy mapping regions through to CCGs. Clicking on each of the rectangles expands this selection.
 
-{% include treemap_small.html %}
+<iframe src="treemap_large.html" height="600px" width="100%" style="border:none;"></iframe>
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
 Template for end-to-end open source analytics: [github.io](https://pages.github.com/), and [github actions](https://github.com/features/actions).
 
 Analytics leverages open source data and R libraries such as [leaflet](https://cran.r-project.org/web/packages/leaflet/index.html) for interactive maps, [plotly](https://plotly.com/r/) for other interactive visualisations and [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/introduction.html) for descriptive statistics.
