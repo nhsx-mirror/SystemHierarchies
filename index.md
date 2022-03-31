@@ -32,7 +32,7 @@ Funnel chart showing the number of organisations at each stage starting with Reg
 
 {% include funnel_chart.html %}
 
-#Sunburst Chart - Regions -> ICS -> CCGs -> PCNs -> GP Practices
+# Sunburst Chart - Regions -> ICS -> CCGs -> PCNs -> GP Practices
 <br>
 Sunburst chart showing the mapping of each region through to GP practices. Clicking on each sector expands this selection.
 
@@ -41,7 +41,7 @@ Sunburst chart showing the mapping of each region through to GP practices. Click
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 
-#Suburst Chart - Regions -> ICSs -> CCGs
+# Suburst Chart - Regions -> ICSs -> CCGs
 Sunburst chart showing the mapping of each region through to CCGs. Clicking on each sector expands this selection.
 
 <iframe src="sunburst_small.html" height="600px" width="100%" style="border:none;"></iframe>
